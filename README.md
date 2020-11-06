@@ -22,6 +22,6 @@ python --version
 Python 
 ```
 
-
-[(https://www.tensorflow.org/tutorials/load_data/images)](https://www.tensorflow.org/tutorials/load_data/images)
+follow below link
+[https://www.tensorflow.org/tutorials/load_data/images](https://www.tensorflow.org/tutorials/load_data/images)
 
