@@ -9,3 +9,17 @@ Estimated costs: $13.61/month
 Choose as below 
 Instance machine type : f1-micro
 Storage : SSD
+
+
+After install
+Goto GCP console
+Select instance (tensorflow)
+SSH start
+
+
+```python
+python --version
+Python 
+
+follow below step
+https://www.tensorflow.org/tutorials/load_data/images
