@@ -20,6 +20,7 @@ SSH start
 ```python
 python --version
 Python 
+```
 
 follow below step
 https://www.tensorflow.org/tutorials/load_data/images
