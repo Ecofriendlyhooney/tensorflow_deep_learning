@@ -21,7 +21,9 @@ python --version
 Python 
 ```
 https://github.com/Ecofriendlyhooney/tensorflow_deep_learning/issues/1
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Ecofriendlyhooney/tensorflow_deep_learning/issues/1#issue-737465318 "Logo Title Text 1")
+
+
 
 
 follow below link
