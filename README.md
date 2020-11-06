@@ -20,6 +20,7 @@ SSH start
 python --version
 Python 
 ```
+https://github.com/Ecofriendlyhooney/tensorflow_deep_learning/issues/1
 
 
 follow below link
