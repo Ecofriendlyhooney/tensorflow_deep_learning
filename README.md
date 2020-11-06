@@ -20,8 +20,7 @@ SSH start
 python --version
 Python 
 ```
-https://github.com/Ecofriendlyhooney/tensorflow_deep_learning/issues/1
-![alt text](https://user-images.githubusercontent.com/20676176/98328643-8dd98680-2039-11eb-99b2-7ab5a322ec4f.jpg "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/20676176/98328643-8dd98680-2039-11eb-99b2-7ab5a322ec4f.jpg)
 
 
 
