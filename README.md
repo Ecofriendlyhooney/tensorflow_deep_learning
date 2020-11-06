@@ -1,5 +1,5 @@
 # tensorflow_deep_learning
-Deep learning project by tensorflow
+## Deep learning project by tensorflow
 
 [GCP case]
 TensorFlow Serving Certified by Bitnami
@@ -7,7 +7,7 @@ Bitnami
 Estimated costs: $13.61/month
 
 Choose as below 
-⋅⋅* Instance machine type : f1-micro
+⋅⋅*Instance machine type : f1-micro
 ⋅⋅* Storage : SSD
 
 
@@ -22,5 +22,6 @@ python --version
 Python 
 ```
 
-follow below step
-https://www.tensorflow.org/tutorials/load_data/images
+
+[follow below step](https://www.tensorflow.org/tutorials/load_data/images)
+
