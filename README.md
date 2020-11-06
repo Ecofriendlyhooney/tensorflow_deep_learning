@@ -2,8 +2,8 @@
 ## [GCP case]
 
 TensorFlow Serving Certified by Bitnami
-Bitnami
-Estimated costs: $13.61/month
+![alt text]( https://user-images.githubusercontent.com/20676176/98329216-0e4cb700-203b-11eb-821d-ee5cd474e6af.jpg)
+
 
 Choose as below 
 ⋅⋅*Instance machine type : f1-micro
