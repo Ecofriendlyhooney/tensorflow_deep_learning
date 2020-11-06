@@ -38,5 +38,5 @@ Google colaboratory
 
 refer below link
 - [https://colab.research.google.com/](https://colab.research.google.com/)
-- [(https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
+- [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
 
