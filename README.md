@@ -37,6 +37,6 @@ Google colaboratory
 ![alt text](https://user-images.githubusercontent.com/20676176/98330705-4f929600-203e-11eb-95d8-6f944db31d03.jpg)
 
 refer below link
-[https://colab.research.google.com/](https://colab.research.google.com/)
-[(https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
+- [https://colab.research.google.com/](https://colab.research.google.com/)
+- [(https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
 
