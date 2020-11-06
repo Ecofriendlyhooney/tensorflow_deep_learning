@@ -1,7 +1,6 @@
 # tensorflow_deep_learning
-## Deep learning project by tensorflow
+## [GCP case]
 
-[GCP case]
 TensorFlow Serving Certified by Bitnami
 Bitnami
 Estimated costs: $13.61/month
