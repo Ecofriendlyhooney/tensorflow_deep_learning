@@ -2,18 +2,16 @@
 ## [GCP case]
 
 TensorFlow Serving Certified by Bitnami
-![alt text]( https://user-images.githubusercontent.com/20676176/98329216-0e4cb700-203b-11eb-821d-ee5cd474e6af.jpg)
+![alt text](https://user-images.githubusercontent.com/20676176/98329585-e447c480-203b-11eb-9366-b4059ad71b3c.jpg)
 
 
 Choose as below 
-⋅⋅*Instance machine type : f1-micro
-⋅⋅* Storage : SSD
+- Instance machine type : f1-micro
+- Storage : SSD
 
-
-After install
-Goto GCP console
-Select instance (tensorflow)
-SSH start
+Goto GCP console (After install)
+- Select instance (tensorflow)
+- SSH start
 
 
 ```python
