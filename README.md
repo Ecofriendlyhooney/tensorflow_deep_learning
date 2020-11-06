@@ -6,8 +6,12 @@ TensorFlow Serving Certified by Bitnami
 
 
 Choose as below 
-- Instance machine type : f1-micro
-- Storage : SSD
+- Deployment name (as you like)
+- Zone (as you like)
+- Instance machine type : f1-micro (cheapest)
+- Boot disk type : SSD (much faster when re-boot)
+- Bood disk size in GB : 10 (minimum)
+![alt text](https://user-images.githubusercontent.com/20676176/98329953-b8790e80-203c-11eb-86b5-bcd6bd5b2daf.jpg)
 
 Goto GCP console (After install)
 - Select instance (tensorflow)
