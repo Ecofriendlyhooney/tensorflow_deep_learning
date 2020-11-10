@@ -1,7 +1,11 @@
 # tensorflow_deep_learning
 ## [GCP]
 
-test 
+GCP
+- free tier
+
+
+
 TensorFlow Serving Certified by Bitnami
 ![alt text](https://user-images.githubusercontent.com/20676176/98329585-e447c480-203b-11eb-9366-b4059ad71b3c.jpg)
 
