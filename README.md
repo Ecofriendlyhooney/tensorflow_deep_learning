@@ -45,3 +45,11 @@ refer below link
 - [https://colab.research.google.com/](https://colab.research.google.com/)
 - [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
 
+GPU set 
+- able to select either CPU or GPU (GPU is much faster)
+![alt text](https://user-images.githubusercontent.com/20676176/98624235-b5d62c00-2350-11eb-9dee-550e20f9839b.jpg)
+![alt text](https://user-images.githubusercontent.com/20676176/98624335-e9b15180-2350-11eb-9535-f5f2c75880c3.jpg)
+- [https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=tMce8muBqXQP](https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=tMce8muBqXQP)
+
+GPU speed evidence
+![alt text](https://user-images.githubusercontent.com/20676176/98624424-25e4b200-2351-11eb-98b5-06dad1fa5b75.jpg)
