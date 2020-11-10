@@ -2,8 +2,8 @@
 ## [GCP]
 
 GCP
-- free tier
-
+- GCP free tier with $300 credit
+- [https://console.cloud.google.com/](https://console.cloud.google.com/)
 
 
 TensorFlow Serving Certified by Bitnami
